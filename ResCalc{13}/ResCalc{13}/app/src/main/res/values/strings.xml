@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ResCalc{13}</string>
+    <string name="tw1">Widerstand mit 4 Farben</string>
+    <string name="tw2">Widerstand mit 5 Farben</string>
+    <string name="tw3">Widerstand mit 6 Farben</string>
+    <string name="t1">Color 1</string>
+    <string name="t2">Color 2</string>
+    <string name="t33">Color 3</string>
+    <string name="t3"> Color 4</string>
+    <string name="t4">Color 5</string>
+    <string name="t6">Color 6</string>
+    <string name="tr">Widerstandswert: </string>
+    <string name="tr1">Toleranz: </string>
+    <string name="tr2">Temperaturkoeffizient: </string>
+    <string name="s1">t2</string>
+    <string name="s2">t3</string>
+    <string name="s3">t1</string>
+    <string name="s4">t2</string>
+    <string name="b1">Calculate</string>
+
+    <string name="et">0</string>
+    <string name="exitItem">Exit</string>
+    <string name="exitConfirmTitle">Really exit?</string>
+    <string name="exitConfirmText">End application?</string>
+
+    <string name="silver">Silber</string>
+    <string name="gold">Gold</string>
+    <string name="schwartz">Schwartz</string>
+    <string name="braun">Braun</string>
+    <string name="rot">Rot</string>
+    <string name="orange">Orange</string>
+    <string name="gelb">Gelb</string>
+    <string name="grün">Grün</string>
+    <string name="blau">Blau</string>
+    <string name="violett">Violett</string>
+    <string name="grau">Grau</string>
+    <string name="weiß">Weiß</string>
+
+
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "operation">
+        <item>@string/schwartz</item>
+        <item>@string/braun</item>
+        <item>@string/rot</item>
+        <item>@string/orange</item>
+        <item>@string/gelb</item>
+        <item>@string/grün</item>
+        <item>@string/blau</item>
+        <item>@string/violett</item>
+        <item>@string/grau</item>
+        <item>@string/weiß</item>
+    </string-array>
+
+    <string-array name = "operation1">
+        <item>@string/braun</item>
+        <item>@string/rot</item>
+        <item>@string/orange</item>
+        <item>@string/gelb</item>
+        <item>@string/grün</item>
+        <item>@string/blau</item>
+        <item>@string/violett</item>
+        <item>@string/grau</item>
+        <item>@string/weiß</item>
+    </string-array>
+
+    <string-array name = "operation2">
+        <item>@string/silver</item>
+        <item>@string/gold</item>
+        <item>@string/schwartz</item>
+        <item>@string/braun</item>
+        <item>@string/rot</item>
+        <item>@string/orange</item>
+        <item>@string/gelb</item>
+        <item>@string/grün</item>
+        <item>@string/blau</item>
+        <item>@string/violett</item>
+        <item>@string/grau</item>
+        <item>@string/weiß</item>
+    </string-array>
+
+    <string-array name = "operation3">
+        <item>@string/silver</item>
+        <item>@string/gold</item>
+        <item>@string/braun</item>
+        <item>@string/rot</item>
+        <item>@string/grün</item>
+        <item>@string/blau</item>
+        <item>@string/violett</item>
+        <item>@string/grau</item>
+    </string-array>
+
+    <string-array name = "operation4">
+        <item>@string/braun</item>
+        <item>@string/rot</item>
+        <item>@string/orange</item>
+        <item>@string/gelb</item>
+        <item>@string/blau</item>
+        <item>@string/violett</item>
+        <item>@string/weiß</item>
+    </string-array>
+
+</resources>
