@@ -1,3 +1,3 @@
 # ResistorsCalculator
- calculate the value of the resistors from your Android SmartPhone
-Java Android Mobile app
+Java Android Mobile app to calculate the value of the resistors.
+
